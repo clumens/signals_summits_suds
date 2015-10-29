@@ -15,6 +15,7 @@ Feel free to fill in below if you have equipment for these bands:
 50MHz:
   -Radio: An 857 or similar would be great. swaite has an 817
   -Antenna: swaite has parts for 6m moxon. Any other options?
+            clumens has a five element 6m beam that is way too large for portable operation, but would work fine from someone's house.  Rovers tend to use some sort of loop antenna for 6m.
 
 144MHz:
   -Radio: Assorted HTs, swaite's 817, clumens has IC-7000
@@ -22,17 +23,19 @@ Feel free to fill in below if you have equipment for these bands:
 
 222MHz:
   -Radio: clumens has 222 mobile. No SSB options, limited to 25W
-  -Antenna: ??
+  -Antenna: cheapham.com has a 9el HTEK (??) beam for $80.  Aside from that, some sort of vertical since it's going to be FM only.
 
 432MHz:
   -Radio: Assorted HTs, swaite's 817, clumens has IC-7000
   -Antenna: clumens has Diamond A430S15, which is big but reasonable
-  
-Do we also want FM available on these bands?  Typically you can only have one signal per band at a time, but it could be worth monitoring 2M and 70CM FM and responding.  This might result in a couple more QSOs.
--I think having FM available would be nice. SSB is what we should target, but having it to snag the additional QSO where reasonable would be for the best. We can just clear off 2m or 70cm when that happens
-
 
 swaite has HTs for the 3 higher bands here. Also has parts for antennas on those bands
+
+  
+Modes:
+SSB is by far the contest favorite, but there's some limited FM action as well.  How I (clumens) have thought of organizing this is that we put one person on 6m, one on 2m, one on 70cm, and one on the rest/on a break.  Rotate every 30 minutes or so.  Because we can only have one signal on one band at a time, I propose that we give the 2m and 70cm stations an HT or mobile on FM.  They are in charge of responding to calls or calling CQ on FM.  That keeps us limited to one signal.
+
+There's also CW on 6m and the microwave bands.  If whoever's operating 6m wants to run CW for their shift, that would be fine.  I don't know about digital modes during this contest.  I've not bothered looking.
 
 
 Operating Location/Setup:
@@ -40,5 +43,6 @@ With 7'+ long beams, we'll need some space. Ideal would be...clear lines of sigh
 
 What sort of tower/mast setup will we use? If we have a parking lot available, we can use cars as support as well as wind breaks
 
+
 Logging:
-Paper logs, format later? Laptop with N1MM+? Laptop with clumens' sexy log app?
+clumens's logger isn't network aware and doesn't yet separate out operator vs. station callsign.  I'd propose paper logs and we format them later.  Each station has a clipboard that stays with the radio, not with the operator.  Don't worry about dupes.
