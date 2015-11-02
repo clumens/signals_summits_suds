@@ -1,0 +1,236 @@
+**** BEGIN LOGGING AT Mon Nov  2 09:30:55 2015
+
+Nov 02 09:30:55 *	Now talking on #signalssummitssuds
+Nov 02 09:30:56 *	hitchcock.freenode.net sets mode +n #signalssummitssuds
+Nov 02 09:30:56 *	hitchcock.freenode.net sets mode +s #signalssummitssuds
+Nov 02 09:30:59 *	You are now known as swaite
+Nov 02 09:30:59 -NickServ-	This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+Nov 02 09:33:59 *	riel (~riel@74-92-59-68-NewEngland.hfc.comcastbusiness.net) has joined #signalssummitssuds
+Nov 02 09:34:01 *	lon_T2 (lon@nat/redhat/x-dojihceygdxnqiky) has joined #signalssummitssuds
+Nov 02 09:34:14 <swaite>	woo, 3 outa 5
+Nov 02 09:34:24 *	lon_T2 is now known as lon
+Nov 02 09:34:48 <riel>	lon: how was Hawaii?
+Nov 02 09:35:19 <swaite>	I bet it was terrible, awful
+Nov 02 09:36:40 <lon>	sucked.
+Nov 02 09:36:54 <lon>	especially flying in to a 3000' deep crater in a helicopter.  That was awful.
+Nov 02 09:36:56 <swaite>	knew it
+Nov 02 09:37:14 <lon>	so was swimming with sea turtles, eels, and other strange fish
+Nov 02 09:38:32 <swaite>	was Matt one of the other strange fish?
+Nov 02 09:38:56 <lon>	yeah
+Nov 02 09:39:02 <lon>	he got pictures of me underwater
+Nov 02 09:41:59 *	dcantrell (dcantrell@nat/redhat/x-unvdtrlppomvheek) has joined #signalssummitssuds
+Nov 02 09:42:02 <swaite>	neet
+Nov 02 09:42:26 *	clumens (chris@nat/redhat/x-hhcpcormizwhbbxw) has joined #signalssummitssuds
+Nov 02 09:42:34 <swaite>	huzzah!
+Nov 02 09:42:36 <swaite>	gangs all here
+Nov 02 09:42:45 <swaite>	so we're just going over the constitution and by-laws
+Nov 02 09:42:52 <dcantrell>	and your text editor
+Nov 02 09:42:55 <swaite>	https://github.com/clumens/signals_summits_suds
+Nov 02 09:43:18 <swaite>	yeah, clumens was complaining about whitespace
+Nov 02 09:43:29 <dcantrell>	what editor are you using?
+Nov 02 09:43:36 <swaite>	vim
+Nov 02 09:43:36 <dcantrell>	because it looks like it's leaking whitespace
+Nov 02 09:43:51 <swaite>	for some reason my tabs didn't line up with the spacing there, so I used the evil spacebar
+Nov 02 09:43:53 <lon>	hey, better than disk space - a la emacs, amirite?
+Nov 02 09:43:53 <dcantrell>	vim is being too smart or too stupid
+Nov 02 09:44:14 <swaite>	note that that is not an xor there
+Nov 02 09:44:42 <clumens>	so i believe swaite is familiar with what all we need to do in this meeting.
+Nov 02 09:44:59 <swaite>	first step is to make sure we're all happy with the documents as they stand
+Nov 02 09:45:13 <swaite>	after we ratify them and all we technically need a vote to change anything
+Nov 02 09:45:26 <clumens>	dcantrell had a comment about logging requirements, at least in person here he did.
+Nov 02 09:45:28 <lon>	so, set up gerrithub for it or what?
+Nov 02 09:45:32 <lon>	;]
+Nov 02 09:45:49 <swaite>	sure
+Nov 02 09:45:54 <lon>	I was kidding
+Nov 02 09:46:02 <lon>	but that's a way to ensure people vote on changes.
+Nov 02 09:46:09 <dcantrell>	my comment was to not specify a format or specific formats in the actual document.  just say digital logs in the format requested by the trustee
+Nov 02 09:46:13 <clumens>	the documents do specify that their official copy is in version control...
+Nov 02 09:46:32 <swaite>	we also could lock writes to the repo and require pull requests, but that's getting a bit crazy
+Nov 02 09:46:37 <dcantrell>	the advantage to having the docs on github is that if you don
+Nov 02 09:46:45 <dcantrell>	t like the way the club is going, you can fork it and start a new one
+Nov 02 09:46:53 <dcantrell>	with blackjack
+Nov 02 09:46:54 <swaite>	dcantrell: that's fine and makes sense, anyone have a problem with that?
+Nov 02 09:46:55 <dcantrell>	and hookers
+Nov 02 09:46:57 <riel>	for the VHF/UHF thing, I have an 857
+Nov 02 09:48:14 <swaite>	clumens: want to change that so that I don't screw the formatting up again?
+Nov 02 09:48:16 <clumens>	riel: cool, feel free to edit that document at any time.  only the constitution and by-laws need approval.
+Nov 02 09:49:23 <clumens>	changing to:  (4) Digital logs should be submitted to the Trustee in a digital format of the Trustee's choosing.
+Nov 02 09:49:33 <dcantrell>	ack
+Nov 02 09:49:35 <swaite>	ack
+Nov 02 09:49:49 <lon>	ack
+Nov 02 09:50:09 <dcantrell>	now to discuss the official club flag, the battle flag, and the navy jack
+Nov 02 09:50:30 <lon>	[       ]
+Nov 02 09:50:34 <lon>	[ # flag ]
+Nov 02 09:50:37 <lon>	[       ]
+Nov 02 09:50:44 <clumens>	pushed.
+Nov 02 09:50:50 <swaite>	minimum dimensions for the battle flag should be at least 30'x60'
+Nov 02 09:51:01 <dcantrell>	metric, please
+Nov 02 09:51:17 <swaite>	9mx18m
+Nov 02 09:51:22 <clumens>	i had no other comments on the documents.
+Nov 02 09:51:31 <dcantrell>	I also have no other comments on the documents
+Nov 02 09:51:33 <clumens>	dcantrell: okay, 30cm x 60cm
+Nov 02 09:51:44 <dcantrell>	clumens: that's a big pizza
+Nov 02 09:52:10 <swaite>	I had thrown in a bunch of other stuff last night, added associate memberships, eliminated terms for officers, and added callsign guidelines, I think we've cleaned up a few of those
+Nov 02 09:52:28 <swaite>	lon, riel any further comments on them?
+Nov 02 09:52:44 <riel>	reading through them now, they look reasonable to me
+Nov 02 09:53:05 <dcantrell>	swaite: I read all of those changes (amongst the stray whitespace) and had no other comments.  except the /region_num thing...I've never heard of that anywhere, where you find that?
+Nov 02 09:53:36 <swaite>	general best practices I believe, but we can ditch it if people think it's wise
+Nov 02 09:53:46 <lon>	no, that's fine
+Nov 02 09:53:55 <dcantrell>	no, I have no problem it.  just curious where it came from
+Nov 02 09:53:59 <lon>	sorry, half-focused - I have a meeting to run in 8 minutes after a week of PTO
+Nov 02 09:54:01 <clumens>	i don't expect to use the club callsign very much, and even less outside of 1-land.  so i don't care.
+Nov 02 09:54:01 <riel>	does use of the club call affect what frequencies we can use?
+Nov 02 09:54:10 <swaite>	riel: no, control op does
+Nov 02 09:54:16 <clumens>	lon: as long as you can show up two or three times to say ACK, it's fine.
+Nov 02 09:54:18 <riel>	ok cool
+Nov 02 09:54:34 <riel>	can a control op be control op of multiple nearby stations simultaneously?
+Nov 02 09:54:46 <dcantrell>	if you are physically at the controls, yes
+Nov 02 09:54:53 <swaite>	I'd have to look that up, I'm not sure
+Nov 02 09:54:55 <swaite>	 there's guys I could ask
+Nov 02 09:55:15 <swaite>	I think so? But I don't know for certain
+Nov 02 09:55:36 <dcantrell>	the club in Honolulu did that for field day.  as in the control op was in the general vicinity of the radios we had set up
+Nov 02 09:56:04 <dcantrell>	but were all licensed anyway, so I mean it's sort of just rule mumbo jumbo so we can all use one call sign
+Nov 02 09:56:11 <swaite>	yeah
+Nov 02 09:56:22 <swaite>	checking on the actual rules there, but it's probably fine
+Nov 02 09:56:33 <riel>	well, it allows general class ops to use advanced and extra class frequencies, as long as there is an extra class ham nearby
+Nov 02 09:56:42 <dcantrell>	exactly
+Nov 02 09:56:42 <swaite>	that's one of the ideas, yes
+Nov 02 09:56:56 <clumens>	also part of the point of this club is to get its members levelled up!
+Nov 02 09:56:58 <swaite>	I mean, only slackers aren't Extra, but still
+Nov 02 09:57:00 <dcantrell>	so control op should arguably always be an extra or whoever is highest license class in the group
+Nov 02 09:57:07 <swaite>	yep
+Nov 02 09:57:11 *	lon slacks
+Nov 02 09:57:14 <dcantrell>	clumens: we need to become a VEC
+Nov 02 09:57:28 <swaite>	I pulled down the app this morning, it's pretty straight forward
+Nov 02 09:57:29 <riel>	what are the benefits of VEC?
+Nov 02 09:57:39 <dcantrell>	riel: absolutely nothing
+Nov 02 09:57:40 <swaite>	just VE, VEC is things like ARRL and W5YI
+Nov 02 09:57:48 <dcantrell>	yeah, VEC is we can give exams
+Nov 02 09:57:54 <dcantrell>	and qualify other VEs
+Nov 02 09:58:04 <dcantrell>	VEC can submit Form 605 or whatever it's called
+Nov 02 09:58:27 <swaite>	oh, so you're saying become an actual VEC to help design the tests etc?
+Nov 02 09:58:35 <dcantrell>	and Donna at the FCC will open the envelope and go, "oh, just a bunch more ham shit, dump it in the shredder"
+Nov 02 09:58:56 <dcantrell>	swaite: yeah, VECs weigh in on the question pools, submit questions, and vote on which ones to submit to the pools
+Nov 02 09:59:14 <swaite>	I thought you meant all become VEs
+Nov 02 09:59:29 <lon>	[afw - work meeting]
+Nov 02 09:59:35 <dcantrell>	we can do that, but we'd be coordinated through ARRL likely (I mean, who the hell uses W5YI?)
+Nov 02 09:59:39 <swaite>	MIT
+Nov 02 09:59:43 <swaite>	a few others
+Nov 02 09:59:43 <dcantrell>	fuck MIT
+Nov 02 09:59:49 <swaite>	ha
+Nov 02 10:00:00 <dcantrell>	I was on their UHF repeater and someone got on and told me to not use it
+Nov 02 10:00:11 <dcantrell>	so, you know, they can kiss my ass
+Nov 02 10:00:23 <clumens>	also they never respond to me in the VHF contest.
+Nov 02 10:00:31 <swaite>	I don't even know how you'd become a full on VEC
+Nov 02 10:01:12 <dcantrell>	yeah, I don't either.  it's probably not hard.  nothing is.  except putting up a Rohn H50 mast
+Nov 02 10:01:20 <dcantrell>	anyways, WE'RE IN THE WEEDS
+Nov 02 10:01:25 <swaite>	yep
+Nov 02 10:02:08 <dcantrell>	are we past docs approval?
+Nov 02 10:02:22 <swaite>	I believe so, just double checking the steps we need
+Nov 02 10:02:24 <clumens>	riel was still reading.
+Nov 02 10:02:38 <riel>	I read them, they look fine
+Nov 02 10:02:47 <clumens>	lon was still lonning.
+Nov 02 10:02:55 <swaite>	and lon is all meeting like, hopefully he can put half an eye on here
+Nov 02 10:03:07 <riel>	I don't think we need to make our club hostile takeover proof
+Nov 02 10:03:08 <swaite>	So, we'll use the IRC logs as meeting minutes because it's handy
+Nov 02 10:03:30 <swaite>	riel: most of the docs are just boilerplate with some of our own stuff bolted on
+Nov 02 10:05:02 <swaite>	So present we have Rik van Riel (riel) AB1KW, Chris Lumens (clumens) KG6CIH, Lon Hohberger (lon) KB1YGC, David Cantrell (dcantrell) WH6DSN, Sean Waite (swaite) WA1TE. We also have founding-member-in-abstentia Karen Poggi WH7TP
+Nov 02 10:05:38 <swaite>	We need to have a vote to accept the documents and formalize Signals Summits and Suds as a club
+Nov 02 10:06:11 <swaite>	Do we care about any particular procedure of this?
+Nov 02 10:06:47 <lon>	I don't have any specific recommendations on how to vote.
+Nov 02 10:06:50 <lon>	er, 'aye' ?
+Nov 02 10:06:55 <clumens>	no, i'm fine with us just saying ACK or whatever, and someone posting the count in at the end.
+Nov 02 10:06:59 <swaite>	That works
+Nov 02 10:07:06 <lon>	ack
+Nov 02 10:07:21 <swaite>	So, ACK/NAK - All in favor of ratifying the docs and forming Signals Summits and Suds as a Club?
+Nov 02 10:07:23 <swaite>	ack
+Nov 02 10:07:32 <clumens>	ack
+Nov 02 10:08:06 <dcantrell>	ack
+Nov 02 10:09:47 <lon>	ack
+Nov 02 10:09:56 <lon>	(for official answer to question after question was asked)
+Nov 02 10:10:14 <swaite>	so we're good, but we can wait for riel's answer
+Nov 02 10:10:33 <dcantrell>	WH7TP is not on irc, but passes along an 'ack'
+Nov 02 10:10:39 <riel>	ack
+Nov 02 10:11:03 <swaite>	so that's 6 acks counting our absentee ballot to 0 naks, unanimous vote woo!
+Nov 02 10:12:10 <clumens>	then, no more document editing!  they're locked!
+Nov 02 10:12:23 <swaite>	So now that we're officially a club, we need officers. Positions are Prime Minister (President), Brewmaster (Secretary), Chancellor of the Exchequer (Treasurer), Quartermaster (uh...what it says), Trustee (call sign dude). Currently we have clumens as nominated for Prime Minister, dcantrell as Chancellor, and myself as Trustee, if we have any other nominations the floor is open as they say
+Nov 02 10:12:33 <swaite>	or if you don't want that position you've been nominated for
+Nov 02 10:14:55 <lon>	I'm unfortunately not a good candidate for an office at this time :/
+Nov 02 10:15:14 <dcantrell>	lon: scandal?
+Nov 02 10:15:28 <swaite>	it was the weird fishes, wasn't it
+Nov 02 10:15:29 <lon>	several.
+Nov 02 10:15:42 <dcantrell>	we don't need that kind of press
+Nov 02 10:15:48 <lon>	yes it was the humuhumunukunukuapua'a.
+Nov 02 10:16:05 <lon>	silly humuhumunukunukuapua'a, always screwing with reality
+Nov 02 10:16:25 <swaite>	we just need nominations for quartermaster and brewmaster, we also have provisions to allow doubling up on officerships if need be
+Nov 02 10:16:50 <riel>	I could be quartermaster
+Nov 02 10:17:19 <clumens>	haha, i just caught this thing about the quartermaster that we approved:  "and ensuring a respectable selection of beverages is available at all club meetings and events.
+Nov 02 10:17:40 <swaite>	that works, any brewmaster nominations? We'll have a quick vote after we get each nomination set ironed out
+Nov 02 10:17:42 <riel>	doesn't mean the quartermaster always has to do it, just has to ensure someone does :)
+Nov 02 10:17:57 <dcantrell>	clumens: I can't believe you just saw that now.  I added that in the original set I did
+Nov 02 10:18:08 <swaite>	if we new Rik was going to take it, we should have shoehorned "beverages and tasty meats" in
+Nov 02 10:18:11 <swaite>	knew
+Nov 02 10:18:15 <lon>	heh I was going to nominate rik for quartermaster
+Nov 02 10:18:20 <lon>	guess I don't have to
+Nov 02 10:18:42 <lon>	or, I guess: I second riel's motion for riel to be quartermaster
+Nov 02 10:18:44 <swaite>	if no one else is interested, I could just nominate myself for Brewmaster. Fits with the Trustee role anyway
+Nov 02 10:19:20 <swaite>	so - any other nominations for Prime Minister beyond clumens?
+Nov 02 10:20:15 <swaite>	in that case, ACK/NAK - vote for clumens as Prime Minister 
+Nov 02 10:20:17 <swaite>	ack
+Nov 02 10:20:18 <lon>	ack
+Nov 02 10:20:32 <clumens>	i'll abstain from voting on myself.
+Nov 02 10:20:56 <dcantrell>	ack
+Nov 02 10:21:28 <riel>	ack
+Nov 02 10:21:49 <swaite>	4-0 with one abstention, Chris is our new Prime Minister
+Nov 02 10:22:01 <swaite>	next up, any further nominations for Brewmaster beyond myself
+Nov 02 10:22:31 <clumens>	no, i am happy with all nominations
+Nov 02 10:23:17 <lon>	I concur
+Nov 02 10:23:22 <riel>	agreed
+Nov 02 10:23:42 <swaite>	we'll do it that way, if there's no further nominations on anything, an array of ack/naks - swaite for Brewmaster, riel for quartermaster, swaite for trustee, dcantrell for chancellor
+Nov 02 10:23:45 <swaite>	ack, ack, ack, ack
+Nov 02 10:23:54 <riel>	ack ack ack ack
+Nov 02 10:23:56 <dcantrell>	ack, ack, ack, ack
+Nov 02 10:23:56 <clumens>	ack ack ack ack
+Nov 02 10:23:58 <lon>	ack, ack, ack, ack
+Nov 02 10:24:14 <swaite>	all pass 5-0, so we've got our officers!
+Nov 02 10:24:20 <lon>	very official.
+Nov 02 10:24:41 <dcantrell>	hooray
+Nov 02 10:24:43 <lon>	congratulations :]  What happens now, someone barks at the FCC for club callsigns?
+Nov 02 10:24:52 <dcantrell>	I DEMAND THE FLOOR
+Nov 02 10:24:54 <swaite>	I fill out a form and submit it to the ARRL for a club call
+Nov 02 10:25:02 <lon>	ah cool
+Nov 02 10:25:03 <swaite>	we get a sequential, and then we decide if we want a vanity
+Nov 02 10:25:07 <swaite>	dcantrell: yes?
+Nov 02 10:25:14 <dcantrell>	this is general information:
+Nov 02 10:25:35 <dcantrell>	The National Weather Service is conducting a no-registration-requires SkyWarn class at Belmont High School on Nov 18 if anyone is interested
+Nov 02 10:25:38 <dcantrell>	I am going to try to make it
+Nov 02 10:25:52 <swaite>	I think my skywarn cert is still good for another year or three
+Nov 02 10:25:55 <lon>	time? 
+Nov 02 10:26:18 <dcantrell>	7:30pm
+Nov 02 10:26:29 <dcantrell>	correction, 7pm
+Nov 02 10:26:43 <dcantrell>	221 Concord Ave, Belmont, MA
+Nov 02 10:27:09 <dcantrell>	this is pretty close considering most Skywarn classes for NWS Taunton are taught on the cape or farther away
+Nov 02 10:28:09 *	dcantrell goes to the loading dock
+Nov 02 10:30:48 *	clumens_ (chris@nat/redhat/x-yqwetpzaxpvchdse) has joined #signalssummitssuds
+Nov 02 10:32:01 <lon>	I was just looking @ sss.[tld] 
+Nov 02 10:32:26 <lon>	only ones that made any sense were e.g. sss.coop and sss.fm
+Nov 02 10:32:27 <lon>	but
+Nov 02 10:32:29 <lon>	meh
+Nov 02 10:32:33 <lon>	oh look other meeting
+Nov 02 10:32:56 <clumens_>	somewhere in all that boring crud you guys approved, it says there's a membership committee that's permanent.  we should get a couple people to serve on that.  basically all you have to do is approve/disapprove people who want to join.
+Nov 02 10:33:01 <clumens_>	and hopefully not hold meetings.
+Nov 02 10:33:09 <swaite>	lon: we'll figure that part out once we have a call we like
+Nov 02 10:33:15 <lon>	ok
+Nov 02 10:33:23 <clumens_>	the easy way would just be to say that officers = membership.
+Nov 02 10:33:32 <swaite>	clumens_: that works
+Nov 02 10:33:44 <swaite>	we can change it later if we feel like it
+Nov 02 10:34:55 <clumens_>	then that's that.  and i guess all there is to do is fill out the forms, which we don't need everyone around for.
+Nov 02 10:35:20 *	clumens has quit (*.net *.split)
+Nov 02 10:35:30 <swaite>	yep, once I finish filling it out I'll run down to your desk to get your signature
+Nov 02 10:35:34 <swaite>	need Trustee + Officer
+Nov 02 10:35:38 *	clumens_ is now known as clumens
+Nov 02 10:35:45 <clumens>	okay, sounds good.
+Nov 02 10:39:45 <riel>	lon: btw, are you interested in a chainsaw party next weekend?
+Nov 02 10:39:50 <riel>	I need to pick a day and time for it
+Nov 02 10:41:42 *	clumens (chris@nat/redhat/x-yqwetpzaxpvchdse) has left #signalssummitssuds
+Nov 02 10:45:26 <swaite>	Calling this the official end of the meeting 
