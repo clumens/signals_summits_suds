@@ -1,0 +1,31 @@
+HARDWARE                                                    | PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+voice keyers for radios without                             | HIGH     | MEDIUM
+222 transverter and beam                                    | HIGH     | HIGH
+bandpass filter or coax stub filter for 6m                  | MEDIUM   | MEDIUM
+bandpass filter or coax stub filter for 2m                  | MEDIUM   | MEDIUM
+FM antenna for 2m                                           | MEDIUM   | MEDIUM
+FM mobile and antenna for 70cm                              | LOW      | HIGH
+150W 2m amp, w/ preamp, mast-mounted                        | LOW      | HIGH
+100W 70cm amp, w/ preamp, mast-mounted                      | LOW      | HIGH
+bandpass filter or coax stub filter for 1.25m               | LOW      | MEDIUM
+bandpass filter or coax stub filter for 70cm                | LOW      | MEDIUM
+
+OPERATIONS                                                  | PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+have someone who can do CW                                  | HIGH     |
+network-aware logging                                       | MEDIUM   |
+get information on rovers                                   | MEDIUM   |
+follow rovers on APRS                                       | MEDIUM   |
+join local VHF mailing lists, etc.                          | MEDIUM   |
+schedule with other locals                                  | LOW      |
+precalculated antenna bearings for likely contacts          | LOW      |
+consider meteor scatter, jt65, etc.                         | LOW      |
+
+STATION                                                     | PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+get beams up higher, or operate from a better location      | HIGH     | UNKNOWN
+IC-7000 on 2m/70cm, FT-857 on 6m                            | HIGH     | LOW
+aluminum plates under masts to protect deck                 | HIGH     | LOW
+compass roses at masts                                      | MEDIUM   | LOW
+ferrites for feed lines, control lines, etc.                | LOW      | LOW
