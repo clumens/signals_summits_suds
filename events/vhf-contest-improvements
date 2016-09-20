@@ -1,15 +1,46 @@
-HARDWARE                                                    | PRIORITY | COST
+6M STATION	  		  																				| PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
-voice keyers for radios without                             | HIGH     | MEDIUM
-222 transverter and beam                                    | HIGH     | HIGH
-bandpass filter or coax stub filter for 6m                  | MEDIUM   | MEDIUM
-bandpass filter or coax stub filter for 2m                  | MEDIUM   | MEDIUM
-FM antenna for 2m                                           | MEDIUM   | MEDIUM
-FM mobile and antenna for 70cm                              | LOW      | HIGH
-150W 2m amp, w/ preamp, mast-mounted                        | LOW      | HIGH
+filter																											| HIGH		 | MEDIUM
+s/moxon/super moxon/																				| HIGH		 | LOW
+Antenna for ops while driving																| MEDIUM   | LOW
+dedicated transceiver																				| LOW      | SILLY
+
+2M STATION																									| PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+Power pole IC-746																						| HIGH     | LOW
+bandbass/coax stub/diplexer/filter                          | HIGH     | MEDIUM
+Antenna for ops while driving																| MEDIUM   | FREE
+voice keyer																									|	MEDIUM   | MEDIUM
+preamp																											| LOW			 | HIGH
+FM antenna                                                  | LOW      | MEDIUM
+FM transceiver																							| LOW			 | FREE
+
+1.25M STATION	  																						| PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+filter																											| HIGH		 | MEDIUM
+
+70CM STATION	  																						| PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+filter																											| HIGH		 | MEDIUM
+Antenna for ops while driving																| MEDIUM   | FREE
 100W 70cm amp, w/ preamp, mast-mounted                      | LOW      | HIGH
-bandpass filter or coax stub filter for 1.25m               | LOW      | MEDIUM
-bandpass filter or coax stub filter for 70cm                | LOW      | MEDIUM
+FM mobile and antenna for 70cm                              | LOW      | HIGH
+
+33CM STATION	  																						| PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+transverter																									| HIGH		 | HIGH
+beam																												| HIGH     | MEDIUM
+dedicated IF																								| MEDIUM   | HIGH
+
+23CM STATION																								| PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+beam																												| HIGH		 | MEDIUM
+Dedicated IF																								| MEDIUM   | HIGH
+
+13CM STATION																								| PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+transverter																									| MEDIUM   | HIGH
+beam																												| MEDIUM   | MEDIUM
 
 OPERATIONS                                                  | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
@@ -17,10 +48,14 @@ have someone who can do CW                                  | HIGH     |
 network-aware logging                                       | MEDIUM   |
 get information on rovers                                   | MEDIUM   |
 follow rovers on APRS                                       | MEDIUM   |
-join local VHF mailing lists, etc.                          | MEDIUM   |
 schedule with other locals                                  | LOW      |
 precalculated antenna bearings for likely contacts          | LOW      |
 consider meteor scatter, jt65, etc.                         | LOW      |
+
+ROVER                                                       | PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+improve battery situation											              | HIGH     | LOW
+better locations																						| HIGH     | LOW
 
 STATION                                                     | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
