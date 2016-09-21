@@ -5,7 +5,7 @@ s/moxon/super moxon/                                        | HIGH     | LOW
 Antenna for ops while driving                               | MEDIUM   | LOW
 dedicated transceiver                                       | LOW      | SILLY
 better way to mount moxon                                   | HIGH     | LOW
-fix/reinforce moxon connector                               | MEDIMU   | LOW
+fix/reinforce moxon connector                               | MEDIUM   | LOW
 
 2M STATION                                                  | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
@@ -38,7 +38,7 @@ dedicated IF                                                | MEDIUM   | HIGH
 23CM STATION                                                | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
 beam                                                        | HIGH     | MEDIUM
-Dedicated IF                                                | MEDIUM   | HIGH
+dedicated IF                                                | MEDIUM   | HIGH
 
 13CM STATION                                                | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
@@ -63,13 +63,14 @@ dish + feed                                                 | LOW      | MEDIUM
 OPERATIONS                                                  | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
 have someone who can do CW                                  | HIGH     |
-network-aware logging                                       | MEDIUM   |
+meteor scatter operation                                    | HIGH     |
+establish frequencies for each band for faster passing      | HIGH     |
+network-aware logging                                       | MEDIUM   | HIGH (time)
 get information on rovers                                   | MEDIUM   |
 follow rovers on APRS                                       | MEDIUM   |
 monitor FM                                                  | MEDIUM   |
 schedule with other locals                                  | LOW      |
 precalculated antenna bearings for likely contacts          | LOW      |
-consider meteor scatter, jt65, etc.                         | LOW      |
 
 ROVER                                                       | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
@@ -78,7 +79,7 @@ better locations                                            | HIGH     | LOW
 organizational tubs                                         | HIGH     | LOW
 color code each antenna/port/coax                           | HIGH     | LOW
 backup locations and grids                                  | MEDIUM   | FREE
-shorter coax runs                                           | MEDIUM   | MEDIUM
+shorter coax runs (especially for 6 and 2)                  | MEDIUM   | MEDIUM
 whiteboard for current freq                                 | MEDIUM   | LOW
 antenna supports for during setup                           | MEDIUM   | LOW
 zip tie alternatives for transporting antennas              | MEDIUM   | LOW
