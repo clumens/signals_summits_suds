@@ -20,7 +20,8 @@ FM transceiver                                              | LOW      | FREE
 1.25M STATION                                               | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
 filter                                                      | HIGH     | MEDIUM
-PTT switching for transverter                               | MEDIUM   | MEDIUM
+dedicated IF                                                | MEDIUM   | MEDIUM
+FM transceiver                                              | LOW      | FREE
 
 70CM STATION                                                | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
