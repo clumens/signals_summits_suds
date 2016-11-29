@@ -19,20 +19,16 @@ FM transceiver                                              | LOW      | FREE
 
 1.25M STATION                                               | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
-filter                                                      | HIGH     | MEDIUM
-dedicated IF                                                | MEDIUM   | MEDIUM
 FM transceiver                                              | LOW      | FREE
 
 70CM STATION                                                | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
-filter                                                      | HIGH     | MEDIUM
 Antenna for ops while driving                               | MEDIUM   | FREE
 100W 70cm amp, w/ preamp, mast-mounted                      | LOW      | HIGH
 FM mobile and antenna for 70cm                              | LOW      | HIGH
 
 33CM STATION                                                | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
-transverter                                                 | HIGH     | HIGH
 beam                                                        | HIGH     | MEDIUM
 dedicated IF                                                | MEDIUM   | HIGH
 
