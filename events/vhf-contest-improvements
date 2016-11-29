@@ -1,6 +1,5 @@
 6M STATION                                                  | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
-filter                                                      | HIGH     | MEDIUM
 s/moxon/super moxon/                                        | HIGH     | LOW
 Antenna for ops while driving                               | MEDIUM   | LOW
 dedicated transceiver                                       | LOW      | SILLY
