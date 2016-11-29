@@ -1,0 +1,123 @@
+6M STATION                                              | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+IC-7000 w/ microphone                                   | Chris             |           |
+filter                                                  | Chris             |           |
+radio <-> filter coax                                   | Chris             |           |
+filter <-> 6m antenna coax                              | Chris             |           |
+Signalink w/ interface cables                           | Chris             |           |
+
+2M STATION                                              | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+IC-746 w/ microphone                                    | Sean              |           |
+radio <-> 2m antenna coax                               |                   |           |
+
+1.25M STATION                                           | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+HTX-100 w/ microphone                                   | Chris             |           |
+1.25M transverter                                       | Chris             |           |
+PTT cable                                               | Chris             |           |
+triplexer (as filter)                                   | Chris             |           |
+radio <-> transverter coax                              | Chris             |           |
+transverter <-> triplexer coax                          | Chris             |           |
+triplexer <-> 1.25m antenna coax                        | Chris             |           |
+BNC <-> PL adapters (x2)                                | Chris             |           |
+transverter operation checklist                         | Chris             |           |
+
+70CM STATION                                            | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+diplexer (as filter)                                    | Chris             |           |
+radio <-> diplexer coax                                 | Chris             |           |
+diplexer <-> 70cm antenna coax                          | Chris             |           |
+
+33CM STATION                                            | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+FT-290rII w/ microphone                                 | Sean              |           |
+coax switch                                             | Sean              |           |
+33cm transverter                                        | Sean              |           |
+radio <-> switch coax                                   | Sean              |           |
+switch <-> transverter coax                             | Sean              |           |
+transverter <-> 33cm antenna coax                       | Sean              |           |
+SMA <-> PL adapters (x2)                                | Sean              |           |
+transverter operation checklist                         | Sean              |           |
+
+23CM STATION                                            | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+23cm transverter                                        | Sean              |           |
+switch <-> transverter coax                             | Sean              |           |
+transverter <-> 23cm antenna coax                       | Sean              |           |
+SMA <-> PL adapters (x2)                                | Sean              |           |
+transverter operation checklist                         | Sean              |           |
+
+ANTENNAS                                                | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+large EMT conduit                                       | Chris             |           |
+small EMT conduit                                       | Chris             |           |
+6m antenna (moxon)                                      | Sean              |           |
+2m antenna (2M7)                                        | Chris             |           |
+N <-> PL adapter for 2m antenna                         | Chris             |           |
+1.25 antenna (DSEFO222-10RS)                            | Chris             |           |
+N <-> PL adapter for 1.25m antenna                      | Chris             |           |
+70cm antenna (A430S15)                                  | Chris             |           |
+33cm antenna                                            | Sean              |           |
+23cm antenna                                            | Sean              |           |
+antenna stand (x2)                                      | Chris             |           |
+
+POWER                                                   | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+
+CHRIS'S MISC RADIO STUFF                                | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+clipboard w/ logging sheets & pens                      | Chris             |           |
+headphones                                              | Chris             |           |
+power distribution                                      | Chris             |           |
+station support system                                  | Chris             |           |
+
+SEAN'S MISC RADIO STUFF                                 | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+clipboard w/ logging sheets & pens                      | Sean              |           |
+headphones (x2)                                         | Sean              |           |
+power distribution                                      | Sean              |           |
+station support system                                  | Sean              |           |
+
+TOOLS                                                   | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+big zip ties                                            |                   |           |
+extension cords                                         |                   |           |
+extra power poles                                       |                   |           |
+extra zip cord                                          |                   |           |
+knife                                                   |                   |           |
+pliers                                                  |                   |           |
+powerpole crimper                                       |                   |           |
+rope                                                    |                   |           |
+solder                                                  |                   |           |
+soldering iron                                          |                   |           |
+soldering torch                                         |                   |           |
+wire cutters                                            |                   |           |
+wire strippers                                          |                   |           |
+wrenches and screwdrivers to assemble antennas          |                   |           |
+
+ROVER SUPPORT                                           | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+cell phone charger (x2)                                 | Both              |           |
+computer for digital modes                              |                   |           |
+cooler                                                  | Sean              |           |
+snacks & drinks                                         |                   |           |
+spare 80A ANL fuses                                     | Sean              |           |
+spare ATC fuses, various sizes                          | Both              |           |
+trash can                                               |                   |           |
+whiteboard for frequency display                        |                   |           |
+
+CAMPING/HOTEL                                           | WHO'S RESPONSIBLE | PACKED?   |
+--------------------------------------------------------|-------------------|-----------|
+change of clothes                                       | Both              |           |
+deodorant                                               | Both              |           |
+fleece                                                  | Both              |           |
+headlamp                                                | Both              |           |
+lantern                                                 |                   |           |
+sleeping bag                                            | Both              |           |
+sleeping pad                                            | Both              |           |
+soap                                                    | Both              |           |
+rain coat                                               | Both              |           |
+tent                                                    |                   |           |
+toothpaste & toothbrush                                 | Both              |           |
+towel                                                   | Both              |           |
