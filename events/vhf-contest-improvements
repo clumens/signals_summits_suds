@@ -1,10 +1,11 @@
 6M STATION                                                  | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
-s/moxon/super moxon/                                        | HIGH     | LOW
-Antenna for ops while driving                               | MEDIUM   | LOW
-dedicated transceiver                                       | LOW      | SILLY
+filter																											| HIGH		 | MEDIUM
+s/moxon/super moxon/																				| HIGH		 | LOW
+Antenna for ops while driving																| MEDIUM   | LOW
+dedicated transceiver																				| LOW      | SILLY
 better way to mount moxon                                   | HIGH     | LOW
-fix/reinforce moxon connector                               | MEDIUM   | LOW
+fix/reinforce moxon connector                               | MEDIMU   | LOW
 
 2M STATION                                                  | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
@@ -18,7 +19,10 @@ FM transceiver                                              | LOW      | FREE
 
 1.25M STATION                                               | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
+filter																											| HIGH		 | MEDIUM
+PTT switching for transverter                               | MEDIUM   | MEDIUM
 FM transceiver                                              | LOW      | FREE
+
 
 70CM STATION                                                | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
@@ -56,6 +60,21 @@ dish + feed                                                 | LOW      | MEDIUM
 transverter                                                 | LOW      | HIGH
 dish + feed                                                 | LOW      | MEDIUM
 
+9CM STATION		  																						| PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+transverter                                                 | LOW      | HIGH
+beam                                                        | LOW			 | MEDIUM
+
+6CM STATION			  																					| PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+transverter                                                 | LOW      | HIGH
+dish + feed                                                 | LOW      | MEDIUM
+
+3CM STATION				  																				| PRIORITY | COST
+------------------------------------------------------------|----------|-----------
+transverter																									| LOW		   | HIGH
+dish + feed                                                 | LOW      | MEDIUM
+
 OPERATIONS                                                  | PRIORITY | COST
 ------------------------------------------------------------|----------|-----------
 have someone who can do CW                                  | HIGH     |
@@ -64,7 +83,7 @@ establish frequencies for each band for faster passing      | HIGH     |
 network-aware logging                                       | MEDIUM   | HIGH (time)
 get information on rovers                                   | MEDIUM   |
 follow rovers on APRS                                       | MEDIUM   |
-monitor FM                                                  | MEDIUM   |
+monitor FM																									| MEDIUM   | 
 schedule with other locals                                  | LOW      |
 precalculated antenna bearings for likely contacts          | LOW      |
 
