@@ -3,13 +3,19 @@ Name                | Owner     |  Info
 --------------------------------------------------
 IC-746              | WA1TE     | 100W All Mode Transceiver
 ATS-4               | WA1TE     | 5W CW Portable
+IC-7000             | KG6CIH    | 100W All Mode Transceiver; in rover box
+TS-590SG            | KG6CIH    | 100W All Mode Transceiver; Fixed at QTH
+FX-4a               | KG6CIH    | 5W 17/20/30/40m All Mode Portable
 
 ##HF Antennas##
 Name                | Owner     |  Info
 --------------------------------------------------
 80m OCF Dipole      | WA1TE     | Fixed at QTH
 20/30/40 Link Dipole| WA1TE     | Needs minor repair. SOTA
-
+160m Double L       | KG6CIH    | Fixed at QTH
+10m-40m Lazy H      | KG6CIH    | Fixed at QTH
+20/40m Link Dipole  | KG6CIH    | SOTA
+80m Inverted Vee    | KG6CIH    | NEQP special
 
 ##HT Radios##
 Name                | Owner     |  Info
@@ -17,16 +23,22 @@ Name                | Owner     |  Info
 ICOM IC51A+         | WA1TE     | 2/70 D-Star
 Kenwood TH-D72A     | WA1TE     | 2/70 + APRS TNC
 Vertex VXD-720      | WA1TE     | 2m DMR
+Alinco DJ-G7        | KG6CIH    | 2m/70cm/23cm
+Alinco DJ-V57T      | KG6CIH    | 2m/70cm
+Motorola HT-750     | KG6CIH    | 2x; FRS/GMRS/70cm
 
 ##6m Radios##
 Name                | Owner     |  Info
 --------------------------------------------------
 IC-746              | WA1TE     | 100W All Mode Transceiver
+IC-7000             | KG6CIH    | 100W All Mode Transceiver; in rover box
+TS-590SG            | KG6CIH    | 100W All Mode Transceiver; Fixed at QTH
 
 ##6m Antennas##
 Name                | Owner     |  Info
 --------------------------------------------------
 Homebrew Moxon      | WA1TE     | 2el PVC and wire
+A50-S5              | KG6CIH    | 5 element beam; not easily transportable
 
 ##2m Radios##
 Name                | Owner     |  Info
@@ -34,28 +46,36 @@ Name                | Owner     |  Info
 IC-746              | WA1TE     | 100W All Mode Transceiver
 FT-290RII           | WA1TE     | 5W/25W Multimode Transceiver
 FT-2900R            | WA1TE     | 75W FM Transceiver
+IC-7000             | KG6CIH    | 100W All Mode Transceiver; in rover box
 
 ##2m Antennas##
 Name                | Owner     |  Info
 --------------------------------------------------
 Cushcraft Beam      | WA1TE     | Enormous
-
+2M7                 | KG6CIH    | 7 element beam
+Arrow 146/437-10    | KG6CIH    | SOTA
 
 ##1.25m Radios##
 Name                | Owner     |  Info
 --------------------------------------------------
+HTX-100+xverter     | KG6CIH    | In rover box
+DR-235 mk III       | KG6CIH    | 25W FM mobile
 
 ##1.25m Antennas##
 Name                | Owner     |  Info
 --------------------------------------------------
+DSEFO222-10RS       | KG6CIH    | 10 element beam
 
 ##70cm Radios##
 Name                | Owner     |  Info
 --------------------------------------------------
+IC-7000             | KG6CIH    | 100W All Mode Transceiver; in rover box
 
-##70cm Radios##
+##70cm Antennas##
 Name                | Owner     |  Info
 --------------------------------------------------
+A430S15             | KG6CIH    | 15 element beam
+Arrow 146/437-10    | KG6CIH    | SOTA
 
 ##33cm Radios##
 Name                | Owner     |  Info
@@ -79,11 +99,17 @@ Name                | Owner     |  Info
 Type          | Length  | Connectors    | Owner   
 --------------------------------------------------
 LMR400        | 25'     | UHF           | WA1TE
+LMR400        | ~50'    | UHF           | KG6CIH
+LMR400        | ~60'    | UHF           | KG6CIH
+LMR400-FLEX   | 50'     | UHF           | KG6CIH
+LMR400        | 2x ~10' | UHF           | KG6CIH
 
 ##Mast Equipment##
 Name                | Owner     |  Info
 --------------------------------------------------
 Wonderpole          | WA1TE     | 24'
+EMT conduit masts   | KG6CIH    | 10' each; 2x larger size, 1x smaller size
+Drive-on stands     | KG6CIH    | 2x; Wooden, big and heavy
 
 ##Power Stuff##
 Name                | Owner     |  Info
@@ -93,8 +119,11 @@ Astron 35 PSU       | WA1TE     | 35A linear PSU
 TekPower TP30SWII   | WA1TE     | 30A switching PSU
 
 ##Other Equipment##
-Name                | Owner     |  Info
+Name                    | Owner     |  Info
 --------------------------------------------------
+6m bandpass filter      | KG6CIH    | In rover box
+2m/70cm diplexer        | KG6CIH    | In rover box - 1.3-170 MHz/350-540 MHz
+2m/1.25m/70cm triplexer | KG6CIH    | In rover box - 1.3-150 MHz/200-320 MHz/390-500 MHz
 
 ##Operating Space##
 Owner   | Info
@@ -102,3 +131,6 @@ Owner   | Info
 WA1TE   | Room for 2 radios in office. Space in yard
         | for a number of antennas, though might be 
         | "interesting" for VHF 'test beams
+KG6CIH  | Room for 2 radios in office, 3 maybe.  Ropes
+        | in trees for adding temporary HF antennas.
+        | Not a great location for VHF contesting.
