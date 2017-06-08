@@ -1,91 +1,101 @@
-6M STATION                                                  | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-s/moxon/super moxon/                                        | HIGH     | LOW
-Antenna for ops while driving                               | MEDIUM   | LOW
-dedicated transceiver                                       | LOW      | SILLY
-better way to mount moxon                                   | HIGH     | LOW
-fix/reinforce moxon connector                               | MEDIUM   | LOW
+SHOPPING LIST FOR SEPTEMBER 2017
+--------------------------------
+* Trailer hitch flag pole holder (Amazon, Wal-Mart, etc.)
+* Trailer hitch size adapter (Amazon, Wal-Mart, etc.)
+* Three quick release boom-to-mast plates (Directive Systems)
+* Shorter coax, as needed
+* Cotter pin for holding moxon to mast
 
-2M STATION                                                  | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-Power pole IC-746                                           | HIGH     | LOW
-bandbass/coax stub/diplexer/filter                          | HIGH     | MEDIUM
-Antenna for ops while driving                               | MEDIUM   | FREE
-voice keyer                                                 | MEDIUM   | MEDIUM
-preamp                                                      | LOW      | HIGH
-FM antenna                                                  | LOW      | MEDIUM
-FM transceiver                                              | LOW      | FREE
 
-1.25M STATION                                               | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-FM transceiver                                              | LOW      | FREE
+6M STATION                                                  | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+s/moxon/super moxon/                                        | HIGH     | LOW         |
+Antenna for ops while driving                               | MEDIUM   | LOW         | YES
+dedicated transceiver                                       | LOW      | SILLY       |
+better way to mount moxon                                   | HIGH     | LOW         | YES
+fix/reinforce moxon connector                               | MEDIUM   | LOW         | YES
 
-70CM STATION                                                | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-Antenna for ops while driving                               | MEDIUM   | FREE
-100W 70cm amp, w/ preamp, mast-mounted                      | LOW      | HIGH
-FM mobile and antenna for 70cm                              | LOW      | HIGH
+2M STATION                                                  | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+Power pole IC-746                                           | HIGH     | LOW         |
+bandbass/coax stub/diplexer/filter                          | HIGH     | MEDIUM      | YES
+Antenna for ops while driving                               | MEDIUM   | FREE        | YES
+voice keyer                                                 | MEDIUM   | MEDIUM      |
+preamp                                                      | LOW      | HIGH        |
+FM antenna                                                  | LOW      | MEDIUM      |
+FM transceiver                                              | LOW      | FREE        |
 
-33CM STATION                                                | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-beam                                                        | HIGH     | MEDIUM
-dedicated IF                                                | MEDIUM   | HIGH
+1.25M STATION                                               | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+FM transceiver                                              | LOW      | FREE        |
 
-23CM STATION                                                | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-beam                                                        | HIGH     | MEDIUM
-dedicated IF                                                | MEDIUM   | HIGH
+70CM STATION                                                | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+Antenna for ops while driving                               | MEDIUM   | FREE        | YES
+100W 70cm amp, w/ preamp, mast-mounted                      | LOW      | HIGH        |
+FM mobile and antenna for 70cm                              | LOW      | HIGH        |
 
-13CM STATION                                                | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-transverter                                                 | MEDIUM   | HIGH
-beam                                                        | MEDIUM   | MEDIUM
+33CM STATION                                                | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+beam                                                        | HIGH     | MEDIUM      |
+dedicated IF                                                | MEDIUM   | HIGH        |
 
-9CM STATION                                                 | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-transverter                                                 | LOW      | HIGH
-beam                                                        | LOW      | MEDIUM
+23CM STATION                                                | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+beam                                                        | HIGH     | MEDIUM      |
+dedicated IF                                                | MEDIUM   | HIGH        |
 
-6CM STATION                                                 | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-transverter                                                 | LOW      | HIGH
-dish + feed                                                 | LOW      | MEDIUM
+13CM STATION                                                | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+transverter                                                 | MEDIUM   | HIGH        |
+beam                                                        | MEDIUM   | MEDIUM      |
 
-3CM STATION                                                 | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-transverter                                                 | LOW      | HIGH
-dish + feed                                                 | LOW      | MEDIUM
+9CM STATION                                                 | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+transverter                                                 | LOW      | HIGH        |
+beam                                                        | LOW      | MEDIUM      |
 
-OPERATIONS                                                  | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-have someone who can do CW                                  | HIGH     |
-meteor scatter operation                                    | HIGH     |
-establish frequencies for each band for faster passing      | HIGH     |
-network-aware logging                                       | MEDIUM   | HIGH (time)
-get information on rovers                                   | MEDIUM   |
-follow rovers on APRS                                       | MEDIUM   |
-monitor FM                                                  | MEDIUM   |
-schedule with other locals                                  | LOW      |
-precalculated antenna bearings for likely contacts          | LOW      |
+6CM STATION                                                 | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+transverter                                                 | LOW      | HIGH        |
+dish + feed                                                 | LOW      | MEDIUM      |
 
-ROVER                                                       | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-improve battery situation (powerpoles/box)                  | HIGH     | LOW
-better locations                                            | HIGH     | LOW
-organizational tubs                                         | HIGH     | LOW
-color code each antenna/port/coax                           | HIGH     | LOW
-backup locations and grids                                  | MEDIUM   | FREE
-shorter coax runs (especially for 6 and 2)                  | MEDIUM   | MEDIUM
-whiteboard for current freq                                 | MEDIUM   | LOW
-antenna supports for during setup                           | MEDIUM   | LOW
-zip tie alternatives for transporting antennas              | MEDIUM   | LOW
-trash can                                                   | MEDIUM   | LOW
-rotors                                                      | LOW      | HIGH
+3CM STATION                                                 | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+transverter                                                 | LOW      | HIGH        |
+dish + feed                                                 | LOW      | MEDIUM      |
 
-STATION                                                     | PRIORITY | COST
-------------------------------------------------------------|----------|-----------
-get beams up higher, or operate from a better location      | HIGH     | UNKNOWN
-IC-7000 on 2m/70cm, FT-857 on 6m                            | HIGH     | LOW
-aluminum plates under masts to protect deck                 | HIGH     | LOW
-compass roses at masts                                      | MEDIUM   | LOW
-ferrites for feed lines, control lines, etc.                | LOW      | LOW
+OPERATIONS                                                  | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+have someone who can do CW                                  | HIGH     |             | YES
+meteor scatter operation                                    | HIGH     |             |
+establish frequencies for each band for faster passing      | HIGH     |             | YES
+network-aware logging                                       | MEDIUM   | HIGH (time) |
+get information on rovers                                   | MEDIUM   |             | YES
+follow rovers on APRS                                       | MEDIUM   |             |
+monitor FM                                                  | MEDIUM   |             | YES
+schedule with other locals                                  | LOW      |             | YES
+precalculated antenna bearings for likely contacts          | LOW      |             | YES
+
+ROVER                                                       | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+improve battery situation (powerpoles/box)                  | HIGH     | LOW         | YES
+better locations                                            | HIGH     | LOW         | YES
+organizational tubs                                         | HIGH     | LOW         | YES
+color code each antenna/port/coax                           | HIGH     | LOW         | YES
+backup locations and grids                                  | MEDIUM   | FREE        | YES
+shorter coax runs (especially for 6 and 2)                  | MEDIUM   | MEDIUM      | YES
+whiteboard for current freq                                 | MEDIUM   | LOW         | YES
+antenna supports for during setup                           | MEDIUM   | LOW         | YES
+zip tie alternatives for transporting antennas              | MEDIUM   | LOW         | YES
+trash can                                                   | MEDIUM   | LOW         | YES
+operations manual                                           | MEDIUM   | LOW         |
+rotors                                                      | LOW      | HIGH        |
+
+STATION                                                     | PRIORITY | COST        | NEXT CONTEST?
+------------------------------------------------------------|----------|-------------|--------------
+get beams up higher, or operate from a better location      | HIGH     | UNKNOWN     |
+IC-7000 on 2m/70cm, FT-857 on 6m                            | HIGH     | LOW         |
+aluminum plates under masts to protect deck                 | HIGH     | LOW         |
+compass roses at masts                                      | MEDIUM   | LOW         |
+ferrites for feed lines, control lines, etc.                | LOW      | LOW         |
