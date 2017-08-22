@@ -8,13 +8,11 @@ SHOPPING LIST FOR SEPTEMBER 2017
 s/moxon/super moxon/                                        | HIGH     | LOW         |
 Antenna for ops while driving                               | MEDIUM   | LOW         | YES
 dedicated transceiver                                       | LOW      | SILLY       |
-fix/reinforce moxon connector                               | MEDIUM   | LOW         | YES
 
 2M STATION                                                  | PRIORITY | COST        | NEXT CONTEST?
 ------------------------------------------------------------|----------|-------------|--------------
 Power pole IC-746                                           | HIGH     | LOW         |
 bandbass/coax stub/diplexer/filter                          | HIGH     | MEDIUM      | YES
-Antenna for ops while driving                               | MEDIUM   | FREE        | YES
 voice keyer                                                 | MEDIUM   | MEDIUM      |
 preamp                                                      | LOW      | HIGH        |
 FM antenna                                                  | LOW      | MEDIUM      |
@@ -26,7 +24,6 @@ FM transceiver                                              | LOW      | FREE   
 
 70CM STATION                                                | PRIORITY | COST        | NEXT CONTEST?
 ------------------------------------------------------------|----------|-------------|--------------
-Antenna for ops while driving                               | MEDIUM   | FREE        | YES
 100W 70cm amp, w/ preamp, mast-mounted                      | LOW      | HIGH        |
 FM mobile and antenna for 70cm                              | LOW      | HIGH        |
 
@@ -62,7 +59,6 @@ dish + feed                                                 | LOW      | MEDIUM 
 
 OPERATIONS                                                  | PRIORITY | COST        | NEXT CONTEST?
 ------------------------------------------------------------|----------|-------------|--------------
-have someone who can do CW                                  | HIGH     |             | YES
 meteor scatter operation                                    | HIGH     |             |
 establish frequencies for each band for faster passing      | HIGH     |             | YES
 network-aware logging                                       | MEDIUM   | HIGH (time) |
@@ -77,7 +73,6 @@ ROVER                                                       | PRIORITY | COST   
 improve battery situation (powerpoles/box)                  | HIGH     | LOW         | YES
 organizational tubs                                         | HIGH     | LOW         | YES
 color code each antenna/port/coax                           | HIGH     | LOW         | YES
-backup locations and grids                                  | MEDIUM   | FREE        | YES
 shorter coax runs (especially for 6 and 2)                  | MEDIUM   | MEDIUM      | YES
 whiteboard for current freq                                 | MEDIUM   | LOW         | YES
 antenna supports for during setup                           | MEDIUM   | LOW         | YES
