@@ -3,7 +3,8 @@
 IC-7000 w/ microphone                                   | Chris             |           |
 filter                                                  | Chris             |           |
 radio <-> filter coax                                   | Chris             |           |
-filter <-> 6m antenna coax                              | Chris             |           |
+filter <-> outside stub w/ barrel connector             | Chris             |           |
+6m antenna coax                                         | Chris             |           |
 Signalink w/ interface cables                           | Chris             |           |
 
 2M STATION                                              | WHO'S RESPONSIBLE | PACKED?   |
@@ -19,7 +20,8 @@ PTT cable                                               | Chris             |   
 triplexer (as filter)                                   | Chris             |           |
 radio <-> transverter coax                              | Chris             |           |
 transverter <-> triplexer coax                          | Chris             |           |
-triplexer <-> 1.25m antenna coax                        | Chris             |           |
+triplexer <-> outside stub w/ barrel connector          | Chris             |           |
+1.25m antenna coax                                      | Chris             |           |
 BNC <-> PL adapters (x2)                                | Chris             |           |
 transverter operation checklist                         | Chris             |           |
 
@@ -27,7 +29,8 @@ transverter operation checklist                         | Chris             |   
 --------------------------------------------------------|-------------------|-----------|
 diplexer (as filter)                                    | Chris             |           |
 radio <-> diplexer coax                                 | Chris             |           |
-diplexer <-> 70cm antenna coax                          | Chris             |           |
+diplexer <-> outside stub w/ barrel connector           | Chris             |           |
+70cm antenna coax                                       | Chris             |           |
 
 33CM STATION                                            | WHO'S RESPONSIBLE | PACKED?   |
 --------------------------------------------------------|-------------------|-----------|
@@ -51,15 +54,17 @@ transverter operation checklist                         | Sean              |   
 ANTENNAS                                                | WHO'S RESPONSIBLE | PACKED?   |
 --------------------------------------------------------|-------------------|-----------|
 EMT conduit w/ quick connect plates installed (x2)      | Chris             |           |
+PVC mast for in-transit antennas                        | Chris             |           |
 6m antenna (moxon)                                      | Sean              |           |
+6m antenna (squalo)                                     | Sean              |           |
 2m antenna (2M7)                                        | Chris             |           |
+2m antenna (loop)                                       | Chris             |           |
 N <-> PL adapter for 2m antenna                         | Chris             |           |
-1.25 antenna (DSEFO222-10RS)                            | Chris             |           |
+1.25m antenna (DSEFO222-10RS)                           | Chris             |           |
 N <-> PL adapter for 1.25m antenna                      | Chris             |           |
 70cm antenna (A430S15)                                  | Chris             |           |
-33cm antenna                                            | Sean              |           |
-23cm antenna                                            | Sean              |           |
-antenna stand                                           | Chris             |           |
+70cm antenna (loop)                                     | Chris             |           |
+drive-on antenna stand                                  | Chris             |           |
 trailer hitch mast holder                               | Sean              |           |
 trailer hitch adapter                                   | Sean              |           |
 
@@ -72,6 +77,7 @@ clipboard w/ logging sheets & pens                      | Chris             |   
 headphones                                              | Chris             |           |
 power distribution                                      | Chris             |           |
 station support system                                  | Chris             |           |
+CW paddle                                               | Chris             |           |
 
 SEAN'S MISC RADIO STUFF                                 | WHO'S RESPONSIBLE | PACKED?   |
 --------------------------------------------------------|-------------------|-----------|
@@ -79,6 +85,7 @@ clipboard w/ logging sheets & pens                      | Sean              |   
 headphones (x2)                                         | Sean              |           |
 power distribution                                      | Sean              |           |
 station support system                                  | Sean              |           |
+CW paddle                                               | Sean              |           |
 
 TOOLS                                                   | WHO'S RESPONSIBLE | PACKED?   |
 --------------------------------------------------------|-------------------|-----------|
@@ -95,7 +102,7 @@ soldering iron                                          |                   |   
 soldering torch                                         |                   |           |
 wire cutters                                            |                   |           |
 wire strippers                                          |                   |           |
-wrenches and screwdrivers to assemble antennas          |                   |           |
+wrenches and screwdrivers for antennas                  |                   |           |
 
 ROVER SUPPORT                                           | WHO'S RESPONSIBLE | PACKED?   |
 --------------------------------------------------------|-------------------|-----------|
