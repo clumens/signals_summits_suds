@@ -32,25 +32,6 @@ radio <-> diplexer coax                                 | Chris             |   
 diplexer <-> outside stub w/ barrel connector           | Chris             |           |
 70cm antenna coax                                       | Chris             |           |
 
-33CM STATION                                            | WHO'S RESPONSIBLE | PACKED?   |
---------------------------------------------------------|-------------------|-----------|
-FT-290rII w/ microphone                                 | Sean              |           |
-coax switch                                             | Sean              |           |
-33cm transverter                                        | Sean              |           |
-radio <-> switch coax                                   | Sean              |           |
-switch <-> transverter coax                             | Sean              |           |
-transverter <-> 33cm antenna coax                       | Sean              |           |
-SMA <-> PL adapters (x2)                                | Sean              |           |
-transverter operation checklist                         | Sean              |           |
-
-23CM STATION                                            | WHO'S RESPONSIBLE | PACKED?   |
---------------------------------------------------------|-------------------|-----------|
-23cm transverter                                        | Sean              |           |
-switch <-> transverter coax                             | Sean              |           |
-transverter <-> 23cm antenna coax                       | Sean              |           |
-SMA <-> PL adapters (x2)                                | Sean              |           |
-transverter operation checklist                         | Sean              |           |
-
 ANTENNAS                                                | WHO'S RESPONSIBLE | PACKED?   |
 --------------------------------------------------------|-------------------|-----------|
 EMT conduit w/ quick connect plates installed (x2)      | Chris             |           |
